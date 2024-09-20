@@ -5,7 +5,7 @@
 // @author       fudzo
 // @match        https://telegram.blum.codes/*
 // @grant        none
-// @icon         https://github.com/flutterwithfudzo/Blum/blob/main/65ba99c1616e21b24009b86c_blum-256.png
+// @icon         https://cdn.prod.website-files.com/65b6a1a4a0e2af577bccce96/65ba99c1616e21b24009b86c_blum-256.png
 // @downloadURL  https://github.com/flutterwithfudzo/Blum/blob/main/fudzo-blum.js
 // @updateURL    https://github.com/flutterwithfudzo/Blum/blob/main/fudzo-blum.js
 // @homepage     https://github.com/flutterwithfudzo/Blum
